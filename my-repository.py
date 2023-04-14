@@ -1,6 +1,7 @@
-print('Hello world!')
+print('Hi')
 
+input('push Enter to continue')
 a = int(input('number 1:  '))
-b = int(input('number 2:  '))
-print(f'you dumb {a} + {b} = {a+b}')
-
+b = str(input(f'+, -, *, /'))
+c = int(input('number 2:  '))
+print(f'answer {a} {b} {c} = {a} + {c}')
